@@ -18,9 +18,7 @@ I'm a passionate **Web Developer** 🕸️ with experience building dynamic and 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-## 🚀 Projects
 
-<!-- - **[JoeMama Random Jokes](https://github.com/atifkodex/joemama)**: Built using Laravel and Bootstrap, this project helps [Throw JoeMama Jokes at your friends]. -->
 
 
 ## 🔥 GitHub Stats
