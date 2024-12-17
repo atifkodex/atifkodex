@@ -20,15 +20,15 @@ I'm a passionate **Web Developer** 🕸️ with experience building dynamic and 
 
 ## 🚀 Projects
 
-<!-- - **[JoeMama Random Jokes](https://github.com/farazhassan1/joemama)**: Built using Laravel and Bootstrap, this project helps [Throw JoeMama Jokes at your friends]. -->
+<!-- - **[JoeMama Random Jokes](https://github.com/atifkodex/joemama)**: Built using Laravel and Bootstrap, this project helps [Throw JoeMama Jokes at your friends]. -->
 
 
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farazhassan1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farazhassan1&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazhassan1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atifkodex&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atifkodex&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifkodex&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 💼 Experience
