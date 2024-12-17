@@ -25,7 +25,7 @@ I'm a passionate **Web Developer** 🕸️ with experience building dynamic and 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atifkodex&show_icons=true&theme=radical" alt="GitHub Stats" />
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atifkodex)](https://git.io/streak-stats)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atifkodex)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifkodex&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
